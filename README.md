@@ -18,3 +18,18 @@ O projeto terá 4 etapas, e você deverá segui-las da seguinte maneira:
 2. Criar Fluxo do Power Automate.
 3. Criar um fluxo para que, quando um novo registro de instrutor for criado, envie um e-mail (endereço do e-mail será o informado no cadastro do instrutor).
 4. Exportar o aplicativo e postar no portal classroom, juntamente com a planilha utilizada para carga dos dados dos estados.
+
+
+# Autor
+
+_Valdemar T.T_
+<br>
+
+## Contatos:
+
+<div>
+  
+<a href="https://www.dio.me/users/vteider" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Perfil-FF0000?style=for-the-badge&logo=Perfil&logoColor=white" target="_blank"></a>
+<a href = "mailto:vteider@yahoo.com.br"><img loading="lazy" src="https://img.shields.io/badge/Email-33BD01?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/valdemar-teider-5336b394/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/VALDEMAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
